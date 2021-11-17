@@ -1,0 +1,1 @@
+pyuic5.exe -x form.ui -o GUI.py

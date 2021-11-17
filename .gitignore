@@ -1,0 +1,4 @@
+/GUI/build/*
+/GUI/dist/*
+*.idea*
+*_pycache__*

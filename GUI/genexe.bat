@@ -1,0 +1,1 @@
+pyinstaller --onefile --paths='C:\Users\Florian\PythonVenv\Lib\site-packages' --clean --hidden-import httplib2 --hidden-import PyQt5 .\SC_Tickets_GUI.py
